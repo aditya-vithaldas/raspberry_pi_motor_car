@@ -16,7 +16,7 @@ The project essentially plays off a
 
 The core components of this, are going to be 
 1. The remote control app / web
-![image](https://user-images.githubusercontent.com/13113194/162033424-4b714909-ac61-4e24-9b2d-c8549e418def.png)
+![image](https://user-images.githubusercontent.com/13113194/162034503-0e5b18b1-86d0-4317-ae29-ea506234b36f.png)
 
 At v1, we would start with just the navigation controls (left, right, etc), with the video. 
 
@@ -27,4 +27,5 @@ MVP would not include the video off hand (we would use a Zoom like control to vi
 The server enviroment I chose to use to kick-start is replit, due to it low cost to get started, and flexible / free plans
 
 3. Finally, the client bot. Which would essneitlally just read off instructions off the server and exeute without any intellegance of its own to start with. For the video server, I would explore Twilios API's as that seems to be something that can pull off the job we are trying to achieve. 
-4. 
+
+
